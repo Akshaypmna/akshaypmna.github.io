@@ -1,23 +1,15 @@
-# Build and Deploy a Fantastic 3D Portfolio Website with Three.js and React.js
-![3D Portfolio](https://i.ibb.co/9ykhLtM/Thumbnail.png)
+# Akshaypmna
 
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+Welcome to my portfolio website! My name is Akshay K, and I have a deep passion for web development, with a particular focus on frontend development. I am actively seeking exciting job opportunities in these fields, and this website serves as a showcase of my skills and projects.
 
-## Introduction
-The most impressive websites in the world use 3D graphics and animations to bring their content to life. Learn how to build your own ThreeJS 3D Developer Portfolio today! 
- 
-In this course, you'll learn the following:
-- ThreeJS - a powerful 3D graphics library for rendering and animating the 3D model
-- React Three Fiber - a popular library for creating 3D graphics with ThreeJS in React
-- TailwindCSS - a popular utility-first CSS styling framework
-- Framer Motion - the most popular library used to bring your React website to life with animations
-You'll also learn how to:
-- Load, create and customize stunning 3D models and geometries with various lights, as well as understand the 3D world with a camera and positioning of an object in space.
-- Make your code reusable and scalable using Higher Order Components (HOCs) and other industry-standard best practices
-- Implement sending emails through a form on the website
-- Ensure responsiveness across all devices and improve your site's performance using Suspense and Preload.
+Visit my portfolio website: https://akshaypmna.github.io
 
-## Want to land your dream programming job in 3 - 6 months?
-⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
-Become a Software Engineer. Guaranteed.
+Within my portfolio, you'll find a collection of carefully crafted projects that reflect my expertise and dedication to frontend development. I strive to create visually appealing and intuitive user interfaces, utilizing the latest web technologies and best practices.
+
+By exploring my portfolio, you'll gain insights into my creative approach, attention to detail, and problem-solving abilities. I have worked on a variety of projects, each presenting unique challenges and opportunities for growth. Your valuable feedback and suggestions on my works are highly appreciated as they will assist me in refining my skills further.
+
+I am constantly honing my skills and keeping up with the latest industry trends to deliver modern, responsive, and user-friendly web experiences. As you browse through my portfolio, you will notice my proficiency in HTML, CSS, JavaScript, and various frontend frameworks and libraries.
+
+If you have any questions, need further information, or would like to discuss potential job opportunities or collaboration, please don't hesitate to reach out. I'm open to constructive discussions and eager to connect with fellow developers and industry professionals.
+
+Thank you for taking the time to visit my portfolio website. I look forward to connecting with you and embarking on new and exciting web development endeavors together!
